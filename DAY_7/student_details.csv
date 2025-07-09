@@ -1,0 +1,5 @@
+name,dept,marks,passed,grades
+vaibhavi,CS,97,True,A
+vaishnavi,IT,89,True,A
+advaith,CE,30,False,B
+arnav,CE,80,True,B
